@@ -13,6 +13,7 @@ public class Qian {
     private Integer id;
     private String name;
     private Date date;
+    private String hobby;
 
 
     public Integer getId() {
