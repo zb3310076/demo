@@ -14,6 +14,8 @@ public class Qian {
     private String name;
     private Date date;
     private String hobby;
+    private String hobby2;
+    private String hobby3;
 
 
     public Integer getId() {
